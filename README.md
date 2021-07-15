@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 - :mortar_board: I’m currently studying on  <a href="https://www.betrybe.com/formacao" rel="nofollow">Trybe</a>
 - :hearts: learn, games, books! 
+- 🌱 I’m currently learning SQL
 
 
 
