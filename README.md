@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - :mortar_board: Estou em mudança de carreira, estudando Desenvolvimento de Software Full Stack na <a href="https://www.betrybe.com/formacao" rel="nofollow">Trybe</a>
 - 🌱 Atualmente estou estudando <a href="https://www.mysql.com/" rel="nofollow">MySQL</a>
 - :computer: Gamer
-- :hearts: Lealdade, Diversão e Trabalho em Equipe! 
+- :hearts: Aprender, Diversão e Trabalho em Equipe! 
 
 
 
