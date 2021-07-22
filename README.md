@@ -39,3 +39,7 @@ Here are some ideas to get you started:
 ----
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasdev-96&show_icons=true&theme=dark)
+
+----
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdev-96&layout=compact&theme=theme=dark)](https://github.com/lucasdev-96/github-readme-stats)
