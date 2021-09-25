@@ -3,23 +3,13 @@
 Meu nome é Lucas Godoi, sou do interior de São Paulo da cidade de Piracicaba, sim aquela cidade com o rio famoso e uma deliciosa pamonha kk.
 Atualmente sou estudante da <a href="https://www.betrybe.com/" target="_blank" rel="nofollow">Trybe</a> estou terminando o bloco de back-end, aonde ja passei pelos blocos de fundamentos e front-end onde foram momentos de muita aprendizagem para chegar até aqui.
 
+<h2>Algumas coisas sobre meus interesses pessoais</h2>
+- Meus hobbies 🤩 : Gosto muito de fazer desafios de códigos, assistir séries, animes, filmes e jogar vídeos game.
+- Tenho muita vontade de conhecer alguns países orientais
+- Sou uma pessoa muito curiosa então gosto muito de aprender
+- Para entrar em contato comigo por favor me envie um email: 📫 lucazgodoy1996@gmail.com
 
-
-<!--
-**lucasdev-96/lucasdev-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+---
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmirandab/)](https://www.linkedin.com/in/lucas-godoi96/) ![GitHub followers](https://img.shields.io/github/followers/lucasdev-96?style=social) 
 
