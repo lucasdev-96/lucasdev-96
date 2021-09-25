@@ -4,12 +4,11 @@ Meu nome é Lucas Godoi, sou do interior de São Paulo da cidade de Piracicaba, 
 Atualmente sou estudante da <a href="https://www.betrybe.com/" target="_blank" rel="nofollow">Trybe</a> estou terminando o bloco de back-end, aonde ja passei pelos blocos de fundamentos e front-end onde foram momentos de muita aprendizagem para chegar até aqui.
 
 
-<ul>Algumas coisas sobre meus interesses pessoais
-<li>Meus hobbies 🤩 : Gosto muito de fazer desafios de códigos, assistir séries, animes, filmes e jogar vídeos game.</li>
-<li>Tenho muita vontade de conhecer alguns países orientais</li>
-<li>Sou uma pessoa muito curiosa então gosto muito de aprender</li>
-<li>Para entrar em contato comigo por favor me envie um email: 📫 lucazgodoy1996@gmail.com</li>
-</ul>
+<h2>Algumas coisas sobre meus interesses pessoais</h2>
+- Meus hobbies 🤩 : Gosto muito de fazer desafios de códigos, assistir séries, animes, filmes e jogar vídeos game.
+- Tenho muita vontade de conhecer alguns países orientais
+- Sou uma pessoa muito curiosa então gosto muito de aprender
+- Para entrar em contato comigo por favor me envie um email: 📫 lucazgodoy1996@gmail.com
 <!--
 **lucasdev-96/lucasdev-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,7 +33,7 @@ Here are some ideas to get you started:
 
 
 ---
-<h3>My Skills</h3>
+<h3>Linguagens e ferramentas</h3>
 </br>
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">![ContextAPI](https://img.shields.io/badge/ContextAPI-0000FF?style=for-the-badge&logo=React&logoColor=white)![MySQL](https://img.shields.io/badge/Mysql-1572B6?style=for-the-badge&logo=Mysql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-239120?style=for-the-badge&logo=MongoDB&logoColor=white)![Node.JS](https://img.shields.io/badge/Node.JS-2E8B57?style=for-the-badge&logo=Node.JS&logoColor=white)![Express.js](https://img.shields.io/badge/Express-323330?logo=javascript&style=for-the-badge&logoColor=F7DF1E)
