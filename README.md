@@ -10,7 +10,6 @@ Atualmente sou estudante da <a href="https://www.betrybe.com/" target="_blank" r
 <li>Sou uma pessoa muito curiosa então gosto muito de aprender</li>
 <li>Para entrar em contato comigo por favor me envie um email: 📫 lucazgodoy1996@gmail.com</li>
 </ul>
-</br>
 <!--
 **lucasdev-96/lucasdev-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
