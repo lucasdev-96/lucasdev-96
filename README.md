@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Friend 👋
 
 <!--
 **lucasdev-96/lucasdev-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmirandab/)](https://www.linkedin.com/in/lucas-godoi96/) ![GitHub followers](https://img.shields.io/github/followers/lucasdev-96?style=social) 
 
-- :mortar_board: I’m currently studying on  <a href="https://www.betrybe.com/formacao" rel="nofollow">Trybe</a>
+- :mortar_board: I’m currently studying on  <a href="https://www.betrybe.com/formacao" target="_blank" rel="nofollow">Trybe</a>
 - :hearts: learn, games, books! 
 - 🌱 I’m currently learning SQL
 
 
 
-<a href="https://www.instagram.com/lucazgodoy/" rel="nofollow"> <img src="https://camo.githubusercontent.com/5c3f3164b340475c38f1ec3d8c6d0c6e8656fbccac25d06cfb86477079b88638/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532334534343035462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/instagram-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;"> </a>
+<a href="https://www.instagram.com/lucazgodoy/" target="_blank" rel="nofollow"> <img src="https://camo.githubusercontent.com/5c3f3164b340475c38f1ec3d8c6d0c6e8656fbccac25d06cfb86477079b88638/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532334534343035462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/instagram-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;"> </a>
 
 
 ---
