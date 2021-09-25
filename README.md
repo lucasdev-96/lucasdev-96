@@ -1,7 +1,7 @@
 <h2> Olá prazer em ter você aqui👋</h2>
 </br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmirandab/)](https://www.linkedin.com/in/lucas-godoi96/) ![GitHub followers](https://img.shields.io/github/followers/lucasdev-96?style=social) ![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=red&link=https://www.instagram.com/lucazgodoy/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmirandab/)](https://www.linkedin.com/in/lucas-godoi96/) ![GitHub followers](https://img.shields.io/github/followers/lucasdev-96?style=social) ![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=red&link=https://www.instagram.com/lucazgodoy/)(https://www.instagram.com/lucazgodoy/)
 
 ---
 
