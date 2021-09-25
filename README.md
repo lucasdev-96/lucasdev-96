@@ -9,7 +9,6 @@
 <h3>Meu nome é Lucas Godoi, sou do interior de São Paulo da cidade de Piracicaba, sim aquela cidade com o rio famoso e uma deliciosa pamonha kk.
   
 Atualmente sou estudante da <a href="https://www.betrybe.com/" target="_blank" rel="nofollow">Trybe</a> estou terminando o bloco de back-end, 
-  
  aonde ja passei pelos blocos de fundamentos e front-end onde foram momentos de muita aprendizagem para chegar até aqui.<h3>
 </br>
 <h3>Algumas coisas sobre meus interesses pessoais</h5>
