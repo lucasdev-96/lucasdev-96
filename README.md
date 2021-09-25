@@ -1,4 +1,10 @@
-### Hello Friend 👋
+### Olá 👋
+
+Meu nome é Lucas Godoi, sou do interior de São Paulo da cidade de Piracicaba, sim aquela cidade com o rio famoso e uma deliciosa pamonha kk.
+Atualmente sou estudante da <a href="https://www.betrybe.com/" target="_blank" rel="nofollow">Trybe</a> estou terminando o bloco de back-end, aonde ja passei pelos blocos de fundamentos e front-end foram momentos de muita aprendizagem para chegar até aqui.
+
+Meus hobbies 🤩 : 
+Gosto muito de fazer desafios de códigos, assistir séries, animes, filmes e jogar vídeos game.
 
 <!--
 **lucasdev-96/lucasdev-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +23,6 @@ Here are some ideas to get you started:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmirandab/)](https://www.linkedin.com/in/lucas-godoi96/) ![GitHub followers](https://img.shields.io/github/followers/lucasdev-96?style=social) 
-
-- :mortar_board: I’m currently studying on  <a href="https://www.betrybe.com/formacao" target="_blank" rel="nofollow">Trybe</a>
-- :hearts: learn, games, books! 
-- 🌱 I’m currently learning Socket!
 
 
 
