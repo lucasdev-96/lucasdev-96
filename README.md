@@ -10,6 +10,7 @@ Atualmente sou estudante da <a href="https://www.betrybe.com/" target="_blank" r
 <li>Sou uma pessoa muito curiosa então gosto muito de aprender</li>
 <li>Para entrar em contato comigo por favor me envie um email: 📫 lucazgodoy1996@gmail.com</li>
 </ul>
+</br>
 <!--
 **lucasdev-96/lucasdev-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 
-</br>[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmirandab/)](https://www.linkedin.com/in/lucas-godoi96/) ![GitHub followers](https://img.shields.io/github/followers/lucasdev-96?style=social) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmirandab/)](https://www.linkedin.com/in/lucas-godoi96/) ![GitHub followers](https://img.shields.io/github/followers/lucasdev-96?style=social) 
 
 
 
