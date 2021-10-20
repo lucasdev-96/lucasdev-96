@@ -27,7 +27,5 @@ Atualmente sou estudante da <a href="https://www.betrybe.com/" target="_blank" r
 ----
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasdev-96&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdev-96)](https://github.com/lucasdev-96/github-readme-stats)
 
-----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdev-96&layout=compact&theme=theme=dark)](https://github.com/lucasdev-96/github-readme-stats)
