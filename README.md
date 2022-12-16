@@ -14,8 +14,7 @@ Atualmente sou estudante da <a href="https://www.betrybe.com/" target="_blank" r
 <li> Meus hobbies 🤩 Gosto muito de fazer desafios de códigos, assistir séries, animes, filmes e jogar vídeos game.</li>
 <li>Tenho muita vontade de conhecer alguns países orientais</li>
 <li>Sou uma pessoa muito curiosa então gosto muito de aprender</li>
-<li>Para entrar em contato comigo por favor me envie um email: 📫 lucazgodoy1996@gmail.com</li>
-  <li>Meu 🎫 <a href="https://gitconnected.com/lucasdev-96/resume" rel="nofollow">Currículo</a></li>
+<li>Para entrar em contato comigo por favor me envie um email: 📫 lucasgodoidev96@gmail.com</li>
 </br>
 
 ---
