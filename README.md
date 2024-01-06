@@ -4,17 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmirandab/)](https://www.linkedin.com/in/lucas-godoi96/) ![GitHub followers](https://img.shields.io/github/followers/lucasdev-96?style=social) [![Instagram Badge](https://img.shields.io/badge/-Instagram-FF3333?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lucazgodoy/)](https://www.instagram.com/lucazgodoy/)
 
 ---
-
-<h3>Meu nome é Lucas Godoi, sou do interior de São Paulo da cidade de Piracicaba.
-  
-</br>
-<h3>Algumas coisas sobre meus interesses pessoais</h5>
-<li> Meus hobbies 🤩 Gosto muito de fazer desafios de códigos, assistir séries, animes, filmes e jogar vídeos game.</li>
-<li>Tenho muita vontade de conhecer alguns países orientais</li>
-<li>Sou uma pessoa muito curiosa então gosto muito de aprender</li>
-<li>Para entrar em contato comigo por favor me envie um email: 📫 lucasgodoidev96@gmail.com</li>
-</br>
-
 ---
 
 <h3>Linguagens e ferramentas</h3>
